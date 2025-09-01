@@ -99,3 +99,7 @@ module(xplat, "core/xplat")
 module(intermediary, "core/xplat-intermediary")
 module(fabric, "core/fabric")
 module(neoforge, "core/neoforge")
+
+example(xplat, "simple/xplat")
+example(fabric, "simple/fabric")
+example(neoforge, "simple/neoforge")
